@@ -19,6 +19,8 @@ function App() {
         </a>
         <Text>hello</Text>
         <Text>hello 564545454</Text>
+        <Text>hello 564545454</Text>
+        <Text>hello 564545454</Text>
       </header>
     </div>
   );
