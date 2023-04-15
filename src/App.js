@@ -50,6 +50,8 @@ function App() {
         <Text>9067110259</Text>
         <Text>9067110259</Text>
         <Text>swapnil's commit</Text>
+        <Text>swapnil's second commit</Text>
+        <Text>swapnil's second third </Text>
         
         
       </header>
