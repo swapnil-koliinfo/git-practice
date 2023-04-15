@@ -25,6 +25,9 @@ function App() {
         <Text>hello</Text>
         <Text>8469618656</Text>
         <Text>9067110259</Text>
+        <Text>9067110259</Text>
+        <Text>9067110259</Text>
+        <Text>9067110259</Text>
         
         
       </header>
