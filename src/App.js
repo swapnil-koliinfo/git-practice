@@ -17,7 +17,11 @@ function App() {
         >
           Learn React
         </a>
+<<<<<<< HEAD
         <Text>jfdhgjfhdjgrhjg</Text>
+=======
+        <Text>hello</Text>
+>>>>>>> 78e5a28dda301dddf51f6eac19195261f3cce680
       </header>
     </div>
   );
